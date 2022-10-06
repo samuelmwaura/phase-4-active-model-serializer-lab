@@ -37,4 +37,5 @@ group :test do
 end
 
 gem 'faker', '~> 2.17'
+
 gem 'active_model_serializers'
